@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+echo $((128 + $TRUEKNOWLEDGE))
+>>>>>>> f0f94091341f55f9abcc15dde5aa31bf2179197e
